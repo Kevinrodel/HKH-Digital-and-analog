@@ -17,3 +17,5 @@ Both 12-hour and 24-hour clocks are supported, as well as a number of languages:
 * Swedish
 
 ![Screenshot](HKH-Digital-and-analog-screenshot.png "Screenshot")
+### Terminal vLB91 - 2021-12-01
+- Add support for Fitbit Sense and Versa 3
